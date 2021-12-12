@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karimirsan
-- 👀 I’m interested in playing gold on the weekend 
+- 👀 I’m interested in playing golf on the weekend 
 - 🌱 I’m currently learning Python online 
 - 💞️ I’m looking to collaborate on local start up companies
 - 📫 How to reach me via e-mail 

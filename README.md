@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @karimirsan
 - 👀 I’m interested in playing golf on the weekend 
-- 🌱 I’m currently learning Python online 
+- 🌱 I’m currently learning Coding and anything that has to do with codes
 - 💞️ I’m looking to collaborate on local start up companies
-- 📫 How to reach me via e-mail 
+- 📫 You can reach me by my personal e-mail at irsan.karim@gmail.com
 
 <!---
 karimirsan/karimirsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
